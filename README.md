@@ -1,2 +1,6 @@
-# aws_lamdafunction_sentimentjob
-Using lambda function to trigger tweets sentiment analysis job and deployed using API Gateway 
+# AWS Lamba Function
+
+## Overview
+<p> 
+  Trigger tweets sentiment analysis by AWS Lambda function and Deploy using API Gateway
+</p >
